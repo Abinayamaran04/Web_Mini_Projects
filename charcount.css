@@ -1,0 +1,45 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:chartreuse;
+    flex-direction: column;
+    padding:100px;
+}
+#container
+{
+    height:400px;
+    width:400px;
+    background-color:white;
+}
+#header
+{
+width:400px;
+background-color: blue;
+}
+#heading
+{
+    text-align:center;
+    
+    color:white;
+    
+}
+
+#text
+{
+    border-radius: 2%;
+    height:250px;
+    width:350px;
+    border:2px solid blueviolet;
+    outline:none;
+    margin:20px;
+    font-size:25px;
+    box-shadow:0 0 5px 5px darkslategray;
+}
+#para
+{
+    margin:15px;
+    font-size:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
